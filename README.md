@@ -23,6 +23,9 @@ A Front-End Software Engineer, AI Enthusiast and Open Source Advocate who is Int
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Flask Route - A Complete Overview](https://www.meissam.net/python-flask-route-a-complete-overview)
+- [Object Oriented Programming - The Four Principles](https://www.meissam.net/object-oriented-programming-the-four-principles)
+- [Document Object Model (DOM); The First Sight](https://www.meissam.net/document-object-model-the-first-sight)
 <!-- BLOG-POST-LIST:END -->
 
 -------
