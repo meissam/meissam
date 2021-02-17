@@ -18,11 +18,3 @@ A Front-End Software Engineer, AI Enthusiast and Open Source Advocate who is Int
 - **Visual Design** | Figma, Photoshop 
 - **Other Skills** | User Experience Design, Algorithm and Data Structures, Web Performance
 
--------
-
-**📝 Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
--------
