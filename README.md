@@ -1,6 +1,6 @@
 Hi 👋. I'm Meissam. 
 
-A Front-End Software Engineer, AI Enthusiast and Open Source Advocate who is Interested in Art, Culture and Science. 
+A Front-End Software Engineer, AI Enthusiast and Open Source Advocate; Interested in Art, Culture and Science. 
 
 [Personal Website](https://meissam.net/) | [Resume](https://meissam.net/resume/) | [Linkedin](https://www.linkedin.com/in/meissam-rasouli/) | [Email](mailto:meissam.rasouli@gmail.com)
 
