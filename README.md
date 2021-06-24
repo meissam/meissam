@@ -1,20 +1,15 @@
-Hi 👋. I'm Meissam. 
+Hi 👋. I'm Meissam.
 
-A Front-End Software Engineer, AI Enthusiast and Open Source Advocate; Interested in Art, Culture and Science. 
+A front-end software engineer and AI enthusiast who is interested in art, culture and science.
 
-[Personal Website](https://meissam.net/) | [Resume](https://meissam.net/resume/) | [Linkedin](https://www.linkedin.com/in/meissam-rasouli/) | [Email](mailto:meissam.rasouli@gmail.com)
+[<img src ="https://img.shields.io/badge/Website-7d0d3f?style=flat-square">](https://meissam.net/)
+[<img src ="https://img.shields.io/badge/Resume-7d0d3f?style=flat-square">](https://meissam.net/resume/)
+[<img src ="https://img.shields.io/badge/LinkedIn-7d0d3f?style=flat-square">](https://www.linkedin.com/in/meissam-rasouli/)
+[<img src ="https://img.shields.io/badge/Twitter-7d0d3f?style=flat-square">](https://twitter.com/meissam_rasouli)
+[<img src ="https://img.shields.io/badge/Email-7d0d3f?style=flat-square">](mailto:meissam.rasouli@gmail.com)
 
 ------
+<b>📕 Latest blog posts</b>
 
-**🖐 Tehnical Skills:**
-
-- **Languages** | JavaScript (ES6+), Typescript, HTML5, CSS3, SASS, GraphQL, C#, PHP, Python 
-- **Libraries and Frameworks** | React.js, Redux, Express.js, NextJS, Gatsby, JQuery, Bootstrap, Materialize, ASP.NET 
-- **Testing** | Jasmine, Enzyme, Jest, ESlint, Unit Testing, Functional Testing, Integration Testing 
-- **Database** | MongoDB, PostgreSQL 
-- **Tools** | Gulp, Webpack, Babel, PostCSS 
-- **Servers** | Node.js, Apache, nginx 
-- **WordPress** | WP Theme and Plugin Development, WP REST API, Block Development 
-- **Visual Design** | Figma, Photoshop 
-- **Other Skills** | User Experience Design, Algorithm and Data Structures, Web Performance
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
