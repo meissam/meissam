@@ -7,9 +7,3 @@ A front-end software engineer and AI enthusiast who is interested in art, cultur
 [<img src ="https://img.shields.io/badge/LinkedIn-7d0d3f?style=flat-square">](https://www.linkedin.com/in/meissam-rasouli/)
 [<img src ="https://img.shields.io/badge/Twitter-7d0d3f?style=flat-square">](https://twitter.com/meissam_rasouli)
 [<img src ="https://img.shields.io/badge/Email-7d0d3f?style=flat-square">](mailto:meissam.rasouli@gmail.com)
-
-------
-<b>📕 Latest blog posts</b>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
